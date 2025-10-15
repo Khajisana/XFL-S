@@ -1,16 +1,13 @@
 ## Conference
-This work is part pf my paper **Communication-Efficient Federated Learning via Adaptive Single-Layer Transmission
-** submitted to **The 8th International Conference on Advanced Communication Technologies and Networking (CommNet 2025)**.
+This work is part pf my paper **Communication-Efficient Federated Learning via Adaptive Single-Layer Transmission** submitted to **The 8th International Conference on Advanced Communication Technologies and Networking (CommNet 2025)**.
 
 ## Credits
-**Author:** Khaji Sana
-
-**Inspired by the works of:** Rachid EL MOKADEM, Yann BEN MAISSA, and Zineb EL AKKAOUI
-
+**Author:** Khaji Sana 
 **Supervised by:** Yann BEN MAISSA (INPT)
+The National Institute of Posts and Telecommunications(INPT)
 
 ## Description
-This implementation presents an eXtreme Federated Learning approach guided by Sensitivity (XFL-S) that uses sensitivity-based layer selection to reduce communication overhead. The work is inspired by the XFL framework developed by Rachid EL MOKADEM.
+This implementation presents an eXtreme Federated Learning approach guided by Sensitivity (XFL-S) that uses sensitivity-based layer selection to reduce communication overhead. 
 
 ## Installation
 
@@ -68,7 +65,7 @@ scenario_config = SCENARIOS["10_layer_noniid"]
 
 ## Citation
 \`\`\`
-Khaji Sana, "Communication-Efficient Federated Learning via Adaptive Single-Layer Transmission", 
-CommNet 2025
-Inspired by Rachid EL MOKADEM, Yann BEN MAISSA, and Zineb EL AKKAOUI
-Supervised by Yann BEN MAISSA (INPT)
+This work is inspired by:
+R. El Mokadem, Y. Ben Maissa, and Z. El Akkaoui,
+“Extreme Federated Learning (XFL): A Layer-Wise Approach,”
+Cluster Computing, 2024
