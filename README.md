@@ -3,8 +3,8 @@ This work is part pf my paper **Communication-Efficient Federated Learning via A
 
 ## Credits
 **Author:** Khaji Sana 
-**Supervised by:** Yann BEN MAISSA (INPT)
-The National Institute of Posts and Telecommunications(INPT)
+**Supervised by:** Yann BEN MAISSA 
+**The National Institute of Posts and Telecommunications(INPT)**
 
 ## Description
 This implementation presents an eXtreme Federated Learning approach guided by Sensitivity (XFL-S) that uses sensitivity-based layer selection to reduce communication overhead. 
@@ -38,11 +38,12 @@ jupyter notebook
 
 4. Select your scenario in the configuration cell (Cell 4):
 \`\`\`python
+
 # Uncomment ONE scenario:
-# scenario_config = SCENARIOS["6_layer_iid"]
-# scenario_config = SCENARIOS["6_layer_noniid"]
-# scenario_config = SCENARIOS["10_layer_iid"]
-scenario_config = SCENARIOS["10_layer_noniid"]
+#scenario_config = SCENARIOS["6_layer_iid"]
+#scenario_config = SCENARIOS["6_layer_noniid"]
+#scenario_config = SCENARIOS["10_layer_iid"]
+#scenario_config = SCENARIOS["10_layer_noniid"]
 \`\`\`
 
 5. Run all cells (Cell > Run All)
