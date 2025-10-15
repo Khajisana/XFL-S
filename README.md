@@ -36,10 +36,11 @@ jupyter notebook
 
 3. Open `xfl_s_main.ipynb` in your browser
 
-4. Select your scenario in the configuration cell (Cell 4):
+4. Select your scenario in the configuration cell (Cell 5):
 \`\`\`python
 
 # Uncomment ONE scenario:
+
 #scenario_config = SCENARIOS["6_layer_iid"]
 #scenario_config = SCENARIOS["6_layer_noniid"]
 #scenario_config = SCENARIOS["10_layer_iid"]
