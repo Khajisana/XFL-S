@@ -1,0 +1,20 @@
+# XFL-S Requirements
+# eXtreme Federated Learning guided by Sensitivity (XFL-S)
+# For CommNet 2025 Conference
+
+# Core Federated Learning Framework
+flwr[simulation]>=1.5.0
+flwr-datasets[vision]>=0.0.2
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Metrics
+scikit-learn>=1.3.0
+
+# Optional: For better performance
+# ray>=2.6.0  # Uncomment if you want to use Ray for distributed simulation
